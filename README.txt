@@ -5,5 +5,5 @@
 Este juego fue desarrollado utilizando HTML, CSS y JavaScript. Practicamente solo usando a CHATGPT.
 
 
-(foto1.png)
+![Captura de pantalla del juego](foto1.png)
 
